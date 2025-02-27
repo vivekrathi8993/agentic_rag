@@ -1,7 +1,7 @@
 # agentic_rag
 Agentic RAG example implemented with watsonx.ai (for LLMs) and LangGraph (framework).
 
-Check out this [Medium article](https://github.com/user-attachments/assets/901912e7-2304-4105-a3d8-3761543d882c) for details.
+Check out this [article](https://medium.com/@vivekrathi8993/agentic-rag-agent-driven-adaptive-workflows-for-rag-ccdd28bc6096) for details.
 
 Key files and directories:
 - graph/graph_flow : Actual LangGraph graph for the agentic approach.
