@@ -10,3 +10,5 @@ Key files and directories:
 
 
 ![AgenticRAG](https://github.com/user-attachments/assets/901912e7-2304-4105-a3d8-3761543d882c)
+
+The code provided in this article is an adaptation of examples provided by LangGraph ([here](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag/#define-graph-flow)) and Eden Marco ([here](https://github.com/emarco177/langgaph-course))
